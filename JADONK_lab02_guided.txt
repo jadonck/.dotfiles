@@ -1,0 +1,9 @@
+syntax on
+set ruler
+set autoindent
+set number
+set ignorecase
+color elflord
+
+Jadon Kirkland
+The process I went through during this lab was first connecting remotely fromy computer to a Linux computer through PuTTy. Then I followed all steps the lab says to do. The hurdles I encountered were using the VIM editor as I am not familiar with any of the commands in here or how to even enter them.   Other hurdles were how to use the cp command as I did not know how to copy  and rename in one command.
